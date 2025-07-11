@@ -17,7 +17,7 @@ This is **Version 1**, built using **HTML, CSS, and Vanilla JavaScript**.
 
 ## 🚀 Live Demo
 
-Coming soon! Will be deployed via **Vercel** or **GitHub Pages** after Version 2.0 with 9 added features.
+https://quote-generator-iota-ashen.vercel.app/
 
 ---
 
